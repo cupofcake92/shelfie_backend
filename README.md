@@ -7,7 +7,7 @@ A single page web application allowing a user to create a detailed summary of bo
 The app is built using a Rails API backend, and JavaScript, HTML, CSS, and Bootstrap for the frontend. The Rails API was created with a Postgres database.
 
 # How to use it
-The frontend is located here: https://github.com/dani8439/shelfie_frontend
+The frontend is located here: https://github.com/cupofcake92/shelfie_frontend
 
 1. Clone both repositories to your computer.
 2. CD into `shelfie_backend`.
